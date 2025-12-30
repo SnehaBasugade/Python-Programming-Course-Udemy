@@ -1,0 +1,8 @@
+tuple1=(10,2,3,60,80,23,9,78,24,19)
+print(tuple1)
+minimum=min(tuple1)
+print(minimum)
+maximum=max(tuple1)
+print(maximum)
+print(tuple1.count(80))
+print(tuple1.index(23))
