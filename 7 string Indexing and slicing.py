@@ -1,0 +1,10 @@
+str1="Hello World Sneha"
+print(str1[1:])
+print(str1[1:10])
+print(str1[-2])
+print(str1[2:10])
+print(str1[3:10])
+print(str1[2:10:2])
+print(str1[4:10:2])
+print(str1[5:10:4])
+print(str1[2:10:5])
